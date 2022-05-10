@@ -1,5 +1,5 @@
 # <div align=center>Hi there, I'm Leonardo 👋</div>
-### <div align=center>Full stack web developer</div><br/>
+### <div align=center>Software Engineer</div><br/>
 
 
 ## <div align=center>:cyclone: My skills that I'm currently working with</div>
